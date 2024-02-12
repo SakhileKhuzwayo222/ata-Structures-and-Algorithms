@@ -1,5 +1,5 @@
 package InsertionSort;
 
-public class Main {
+public class InsertionSort {
     
 }
